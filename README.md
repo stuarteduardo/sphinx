@@ -3,7 +3,7 @@
 ![Sphinx: Cliente e Servidor em operação](tela.png)
 
 ### Sobre
-Projeto final desenvolvido por **Eduardo Stuart**, para a disciplina **Sistemas Distribuídos**, do curso de **Sistemas de Informação** da **Universidade Veiga de Almeida**.
+Projeto final, desenvolvido por **Eduardo Stuart**, para a disciplina **Sistemas Distribuídos**, do curso de **Sistemas de Informação** da **Universidade Veiga de Almeida**.
 
 Idealizado e desenvolvido com o ojetivo de demonstrar algumas técnicas da computação distribuída, **Sphinx** apresenta uma arquitetura cliente-servidor, em que as tarefas foram distribuídas da seguinte forma:
 
